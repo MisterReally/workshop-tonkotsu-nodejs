@@ -13,7 +13,7 @@ env:
   AZURE_WEBAPP_NAME: ryan-zac-github    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '12.x'                # set this to the node version to use
-  SLOT_NAME: 'ryan-zac-github-staging'
+  SLOT_NAME: 'ryan-zac-github'
   
 jobs:
        
